@@ -1,6 +1,6 @@
 {
-  "name": "myapp",
-  "short_name": "myapp",
+  "name": "Tic Tac Toe",
+  "short_name": "tic-tac-toe",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
